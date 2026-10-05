@@ -2,7 +2,6 @@
 SELECT DISTINCT Color
 FROM Production.Product
 
--- Seleção de t
 select *
 FROM Production.Product
 where Color = 'Red'
